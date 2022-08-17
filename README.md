@@ -10,6 +10,7 @@
 
 ## Tecnologias mais usadas
 <div style="display: inline_block">
+  
   ### front   
   <br/>  
   
