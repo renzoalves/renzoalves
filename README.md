@@ -28,8 +28,11 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Tecnologias mais usadas
 
+<div style="display: inline_block">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 **renzoalves/renzoalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
