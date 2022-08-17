@@ -9,7 +9,7 @@
 ![Renzo GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons+true&theme=dracula)
 
 ## Tecnologias mais usadas
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   ### front 
   <br/>
   <img align="center" alt="vue_js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
@@ -19,7 +19,7 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="tailwind_css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   
-  <br/> 
+  <br/> <br/> 
   ### back
   <br/>
   <img align="center" alt="c_sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
