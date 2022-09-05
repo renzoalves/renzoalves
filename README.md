@@ -30,8 +30,8 @@
 
 <!--
 Repositório do meu perfil: https://github.com/devfraga/devfraga
-Repositório do Github Stats: https://github.com/anuraghazra/github...
-Site de Badges: https://dev.to/envoy_/150-badges-for-...
+Site de Badges: https://dev.to/envoy_/150-badges-for-github-pnk
+Repositório do Github Stats: https://github.com/anuraghazra/github-readme-stats
 Emojis: https://emojipedia.org/
 
 
