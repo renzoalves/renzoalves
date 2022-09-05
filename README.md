@@ -29,12 +29,13 @@
 </div>
 
 <!--
+
+Referências para personalização da minha pámgina inicial:
+
 Repositório do meu perfil: https://github.com/devfraga/devfraga
 Site de Badges: https://dev.to/envoy_/150-badges-for-github-pnk
 Repositório do Github Stats: https://github.com/anuraghazra/github-readme-stats
 Emojis: https://emojipedia.org/
-
-
 
 
 **renzoalves/renzoalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
