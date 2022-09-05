@@ -29,6 +29,14 @@
 </div>
 
 <!--
+Repositório do meu perfil: https://github.com/devfraga/devfraga
+Repositório do Github Stats: https://github.com/anuraghazra/github...
+Site de Badges: https://dev.to/envoy_/150-badges-for-...
+Emojis: https://emojipedia.org/
+
+
+
+
 **renzoalves/renzoalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
