@@ -1,3 +1,8 @@
+# 🛰️ Details
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&theme=radical)](https://github.com/renzoalves/github-readme-stats)  ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)    
+ 
+
 # 📖 Interests
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman)](https://skillicons.dev)
@@ -15,20 +20,11 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/renzoalves)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://github.com/renzoalves)
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renzoalves)
+<!-- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renzoalves) -->
  
 # 🧑‍💻 Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind,cs,postgres)](https://skillicons.dev)
-
-
-# 🛰️ Details
-<div style="display: inline_block; vertical-align: top;">
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&theme=radical)](https://github.com/renzoalves/github-readme-stats)  ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)    
- 
-</div>
-
 
 <!--
 
