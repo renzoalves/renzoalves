@@ -1,4 +1,4 @@
-## Redes
+## ▶️ Social
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EgU2BD9A)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://github.com/renzoalves](https://www.instagram.com/renzo.na/))
@@ -6,7 +6,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renzoalves)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/renzoalves)
  
-## Tecnologias mais usadas
+## 🧑‍💻 Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="vue_js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -18,12 +18,11 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-## Detalhes
-<div style="display: inline_block">
+## 🛰️ Detalhes 
+<div style="display: inline_block; vertical-align: top;">
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&theme=radical)](https://github.com/renzoalves/github-readme-stats) ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)    
  
- ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&theme=radical)](https://github.com/renzoalves/github-readme-stats)  
 </div>
 
 
