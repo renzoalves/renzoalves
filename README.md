@@ -1,6 +1,11 @@
 # 📖 Interests
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman)](https://skillicons.dev) -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,bootstrap,tailwind)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,laravel,nodejs)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman)](https://skillicons.dev)
 
 
 # ▶️ Social
