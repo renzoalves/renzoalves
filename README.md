@@ -23,7 +23,7 @@
 ## Minha TOP 5
 
 <div style="display: inline_block">
-  
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves)](https://github.com/renzoalves/github-readme-stats)  
   
 </div>
