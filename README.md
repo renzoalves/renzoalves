@@ -6,8 +6,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renzoalves)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/renzoalves)
 
-![Renzo GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons+true&theme=dracula)
-
+![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)
+ 
 ## Tecnologias mais usadas
 <div style="display: inline_block">
   <img align="center" alt="vue_js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
@@ -24,7 +24,7 @@
 
 <div style="display: inline_block">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves)](https://github.com/renzoalves/github-readme-stats)  
   
 </div>
 
