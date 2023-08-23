@@ -1,12 +1,10 @@
-## Onde me achar 👋
+## Redes
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EgU2BD9A)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://github.com/renzoalves](https://www.instagram.com/renzo.na/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/renzoalves)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renzoalves)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/renzoalves)
-
-![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)
  
 ## Tecnologias mais usadas
 <div style="display: inline_block">
@@ -20,13 +18,14 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-## Minha TOP 5
-
+## Detalhes
 <div style="display: inline_block">
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves)](https://github.com/renzoalves/github-readme-stats)  
-  
+ ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&theme=radical)](https://github.com/renzoalves/github-readme-stats)  
 </div>
+
 
 <!--
 
@@ -36,7 +35,6 @@ Repositório do meu perfil: https://github.com/devfraga/devfraga
 Site de Badges: https://dev.to/envoy_/150-badges-for-github-pnk
 Repositório do Github Stats: https://github.com/anuraghazra/github-readme-stats
 Emojis: https://emojipedia.org/
-
 
 **renzoalves/renzoalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
