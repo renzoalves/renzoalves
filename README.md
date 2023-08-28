@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/EgU2BD9A">
-    <img src="https://skillicons.dev/icons?i=discord" />
+  <a href="https://discord.gg/djenrolandy">
+    <img src="https://skillicons.dev/icons?i=discord" title="User: djenrolandy"/>
   </a>
   <a href="https://www.instagram.com/renzo.na/">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -35,7 +35,7 @@
   <a href="https://br.linkedin.com/in/renzoalves">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/renzoalves">
+  <a href="https://twitter.com/renzoalves">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 
