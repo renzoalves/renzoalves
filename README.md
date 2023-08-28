@@ -25,10 +25,12 @@
   </a>
 </p>
 
+<p align="center">
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/EgU2BD9A)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/renzo.na/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/renzoalves)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://github.com/renzoalves)
+</p>
 
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renzoalves) --> 
 
