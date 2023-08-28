@@ -26,10 +26,27 @@
 </p>
 
 <p align="center">
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/EgU2BD9A)
+  <a href="https://discord.gg/EgU2BD9A">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://www.instagram.com/renzo.na/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://br.linkedin.com/in/renzoalves">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/renzoalves">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+
+
+<!--  
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/EgU2BD9A)  
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/renzo.na/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/renzoalves)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://github.com/renzoalves)
+-->
+
 </p>
 
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renzoalves) --> 
