@@ -1,7 +1,10 @@
 # 🛰️ Details ⚡
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&theme=radical)](https://github.com/renzoalves/github-readme-stats)  ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)    
- 
+
+ # 🧑‍💻 Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind,cs,postgres)](https://skillicons.dev)
 
 # 📖 Interests
 
@@ -15,16 +18,20 @@
 -->
 
 # ▶️ Social
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/EgU2BD9A)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/renzo.na/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/renzoalves)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://github.com/renzoalves)
 
-<!-- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renzoalves) -->
- 
-# 🧑‍💻 Technologies
+<!-- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renzoalves) --> 
 
-[![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind,cs,postgres)](https://skillicons.dev)
 
 <!--
 
