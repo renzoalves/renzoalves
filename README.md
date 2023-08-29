@@ -1,15 +1,15 @@
 <p align="right">
   <a href="https://discord.gg/djenrolandy">
-    <img height=25 src="https://skillicons.dev/icons?i=discord" title="User: djenrolandy"/>
+    <img height=30 src="https://skillicons.dev/icons?i=discord" title="User: djenrolandy"/>
   </a>
   <a href="https://www.instagram.com/renzo.na/">
-    <img height=25 src="https://skillicons.dev/icons?i=instagram" />
+    <img height=30 src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://br.linkedin.com/in/renzoalves">
-    <img height=25 src="https://skillicons.dev/icons?i=linkedin" />
+    <img height=30 src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/renzoalves">
-    <img height=25 src="https://skillicons.dev/icons?i=twitter" />
+    <img height=30 src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
@@ -26,7 +26,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height=70 src="https://skillicons.dev/icons?i=git,vue,js,html,css,bootstrap,tailwind,cs,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,vue,js,html,css,bootstrap,tailwind,cs,postgres" />
+  </a>
+</p>
+
+# 📖 Interests
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
   </a>
 </p>
 
@@ -49,7 +57,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height=100 src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman)](https://skillicons.dev) -->
