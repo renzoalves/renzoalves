@@ -1,7 +1,8 @@
 # 🛰️ Details ⚡
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&theme=radical)](https://github.com/renzoalves/github-readme-stats)  ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)    
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&layout=compact)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&theme=radical)](https://github.com/renzoalves/github-readme-stats)  ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)   
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoalves&layout=compact&theme=radical)  ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzoalves&show_icons=true&theme=radical)   
 
  # 🧑‍💻 Technologies
 
