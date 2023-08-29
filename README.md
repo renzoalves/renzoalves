@@ -19,14 +19,14 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=renzoalves&theme=radical" />
 </a>
 <a href="https://github.com/renzoalves/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzoalves&layout=compact&langs_count=8&card_width=300&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzoalves&layout=compact&langs_count=8&card_width=300&theme=radical" />
 </a>
 
 &nbsp;
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vue,js,html,css,bootstrap,tailwind,cs,postgres" />
+    <img height=50 src="https://skillicons.dev/icons?i=git,vue,js,html,css,bootstrap,tailwind,cs,postgres" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height=150 src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
+    <img height=100 src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman)](https://skillicons.dev) -->
