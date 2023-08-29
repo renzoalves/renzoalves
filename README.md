@@ -1,3 +1,19 @@
+<p align="right">
+  <a href="https://discord.gg/djenrolandy">
+    <img height=20 src="https://skillicons.dev/icons?i=discord" title="User: djenrolandy"/>
+  </a>
+  <a href="https://www.instagram.com/renzo.na/">
+    <img height=20 src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://br.linkedin.com/in/renzoalves">
+    <img height=20 src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/renzoalves">
+    <img height=20 src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+
 # 🛰️ Details ⚡
 
 <a href="https://github.com/renzoalves/github-readme-stats">
