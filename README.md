@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height=100 src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
+    <img height=50 src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman)](https://skillicons.dev) -->
