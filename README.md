@@ -1,26 +1,25 @@
 <p align="right">
   <a href="https://discord.gg/djenrolandy">
-    <img height=20 src="https://skillicons.dev/icons?i=discord" title="User: djenrolandy"/>
+    <img height=25 src="https://skillicons.dev/icons?i=discord" title="User: djenrolandy"/>
   </a>
   <a href="https://www.instagram.com/renzo.na/">
-    <img height=20 src="https://skillicons.dev/icons?i=instagram" />
+    <img height=25 src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://br.linkedin.com/in/renzoalves">
-    <img height=20 src="https://skillicons.dev/icons?i=linkedin" />
+    <img height=25 src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/renzoalves">
-    <img height=20 src="https://skillicons.dev/icons?i=twitter" />
+    <img height=25 src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
-
-# 🛰️ Details ⚡
+# Details ⚡
 
 <a href="https://github.com/renzoalves/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=renzoalves&theme=radical" />
 </a>
 <a href="https://github.com/renzoalves/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzoalves&layout=compact&langs_count=8&card_width=300&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzoalves&layout=compact&langs_count=8&card_width=300&theme=radical" />
 </a>
 
 &nbsp;
@@ -50,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
+    <img height=150 src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman)](https://skillicons.dev) -->
@@ -62,6 +61,7 @@
    [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman)](https://skillicons.dev)
 -->
 
+<!--
 # ▶️ Social
 
 <p align="center">
@@ -78,6 +78,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
+-->
 
 <!--  
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/EgU2BD9A)  
