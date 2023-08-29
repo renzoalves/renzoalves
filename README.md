@@ -1,3 +1,5 @@
+# Details ⚡
+
 <p align="right">
   <a href="https://discord.gg/djenrolandy">
     <img height=30 src="https://skillicons.dev/icons?i=discord" title="User: djenrolandy"/>
@@ -12,8 +14,6 @@
     <img height=30 src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
-
-# Details ⚡
 
 <a href="https://github.com/renzoalves/vue3-todo-list">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=renzoalves&theme=radical" />
@@ -53,6 +53,7 @@
 -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind,cs,postgres)](https://skillicons.dev) -->
 
+<!--
 # 📖 Interests
 
 <p align="center">
@@ -60,6 +61,8 @@
     <img src="https://skillicons.dev/icons?i=git,js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman" />
   </a>
 </p>
+-->
+
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,vue,bootstrap,dotnet,laravel,mysql,postgres,sqlite,tailwind,visualstudio,vscode,nodejs,postman)](https://skillicons.dev) -->
 
 <!--
