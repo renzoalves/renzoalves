@@ -15,10 +15,10 @@
   </a>
 </p>
 
-<a href="https://github.com/renzoalves/vue3-todo-list">
+<a href="https://github.com/renzoalves">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=renzoalves&theme=radical" />
 </a>
-<a href="https://github.com/renzoalves/vue3-todo-list">
+<a href="https://github.com/renzoalves">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzoalves&layout=compact&langs_count=8&card_width=300&theme=radical" />
 </a>
 
